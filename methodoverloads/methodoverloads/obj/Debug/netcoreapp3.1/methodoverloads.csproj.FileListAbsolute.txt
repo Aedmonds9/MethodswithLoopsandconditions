@@ -1,0 +1,5 @@
+C:\Users\brode\repos\methodoverloads\methodoverloads\obj\Debug\netcoreapp3.1\methodoverloads.csproj.AssemblyReference.cache
+C:\Users\brode\repos\methodoverloads\methodoverloads\obj\Debug\netcoreapp3.1\methodoverloads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brode\repos\methodoverloads\methodoverloads\obj\Debug\netcoreapp3.1\methodoverloads.AssemblyInfoInputs.cache
+C:\Users\brode\repos\methodoverloads\methodoverloads\obj\Debug\netcoreapp3.1\methodoverloads.AssemblyInfo.cs
+C:\Users\brode\repos\methodoverloads\methodoverloads\obj\Debug\netcoreapp3.1\methodoverloads.csproj.CoreCompileInputs.cache

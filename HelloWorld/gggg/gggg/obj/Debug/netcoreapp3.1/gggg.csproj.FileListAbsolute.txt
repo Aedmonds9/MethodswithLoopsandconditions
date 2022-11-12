@@ -1,0 +1,14 @@
+C:\Users\brode\repos\HelloWorld\gggg\gggg\obj\Debug\netcoreapp3.1\gggg.csproj.AssemblyReference.cache
+C:\Users\brode\repos\HelloWorld\gggg\gggg\obj\Debug\netcoreapp3.1\gggg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brode\repos\HelloWorld\gggg\gggg\obj\Debug\netcoreapp3.1\gggg.AssemblyInfoInputs.cache
+C:\Users\brode\repos\HelloWorld\gggg\gggg\obj\Debug\netcoreapp3.1\gggg.AssemblyInfo.cs
+C:\Users\brode\repos\HelloWorld\gggg\gggg\obj\Debug\netcoreapp3.1\gggg.csproj.CoreCompileInputs.cache
+C:\Users\brode\repos\HelloWorld\gggg\gggg\bin\Debug\netcoreapp3.1\gggg.exe
+C:\Users\brode\repos\HelloWorld\gggg\gggg\bin\Debug\netcoreapp3.1\gggg.deps.json
+C:\Users\brode\repos\HelloWorld\gggg\gggg\bin\Debug\netcoreapp3.1\gggg.runtimeconfig.json
+C:\Users\brode\repos\HelloWorld\gggg\gggg\bin\Debug\netcoreapp3.1\gggg.runtimeconfig.dev.json
+C:\Users\brode\repos\HelloWorld\gggg\gggg\bin\Debug\netcoreapp3.1\gggg.dll
+C:\Users\brode\repos\HelloWorld\gggg\gggg\bin\Debug\netcoreapp3.1\gggg.pdb
+C:\Users\brode\repos\HelloWorld\gggg\gggg\obj\Debug\netcoreapp3.1\gggg.dll
+C:\Users\brode\repos\HelloWorld\gggg\gggg\obj\Debug\netcoreapp3.1\gggg.pdb
+C:\Users\brode\repos\HelloWorld\gggg\gggg\obj\Debug\netcoreapp3.1\gggg.genruntimeconfig.cache
